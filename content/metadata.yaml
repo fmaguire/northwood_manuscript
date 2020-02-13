@@ -1,5 +1,5 @@
 ---
-title: "Manuscript Title"
+title: "Relationships between frailty, age, and the microbiome in an assisted-care facility"
 keywords:
   - markdown
   - publishing
@@ -7,21 +7,52 @@ keywords:
 lang: en-US
 authors:
   -
-    github: johndoe
-    name: John Doe
-    initials: JD
-    orcid: XXXX-XXXX-XXXX-XXXX
-    twitter: johndoe
-    email: john.doe@something.com
+    github: fmaguire
+    name: Finlay Maguire
+    initials: FM
+    orcid: 0000-0002-1203-9514
+    twitter: FinlayM
+    email: finlaymaguire@gmail.com
     affiliations:
-      - Department of Something, University of Whatever
-    funders: Grant XXXXXXXX
+      - Faculty of Computer Science, Dalhousie University
+    funders: Donald Hill Family Fellowship in Computer Science
   -
-    github: janeroe
-    name: Jane Roe
-    initials: JR
-    orcid: XXXX-XXXX-XXXX-XXXX
+    name: Akhilesh S. Dhanani
+    initials: ASD
     email: jane.roe@whatever.edu
     affiliations:
-      - Department of Something, University of Whatever
-      - Department of Whatever, University of Something
+      - Department of Pharmacology, Dalhousie University
+  -
+    name: Akhilesh S. Dhanani
+    initials: ASD
+    email: akhileshdhanani@gmail.com
+    affiliations:
+      - Department of Pharmacology, Dalhousie University
+  -
+    name: Michael W. Hall
+    initials: MWH
+    email: hallm2533@gmail.com
+    affiliations:
+      - Faculty of Computer Science, Dalhousie University
+  -
+    name: Travis LeBlanc
+    initials: TB
+  -
+    name: Morgan G. I. Langille
+    initials: MGIL
+    email: morgan.g.i.langille@gmail.com
+    affiliations:
+      - Department of Pharmacology, Dalhousie University
+      - Department of Microbiology & Immunology, Dalhousie University
+  -
+    name: Olga Theo
+    initials: OT
+  -
+    name: Kenneth Rockwood
+    initials: KR
+  -
+    name: Robert G. Beiko
+    initials: RGB
+    email: beiko@cs.dal.ca
+    affiliations:
+      - Faculty of Computer Science, Dalhousie University
