@@ -1,6 +1,6 @@
 {
   "pandoc": {
-    "title": "Manuscript Title",
+    "title": "Relationships between frailty, age, and the microbiome in an assisted-care facility",
     "keywords": [
       "markdown",
       "publishing",
@@ -9,10 +9,17 @@
     "lang": "en-US",
     "date-meta": "2020-02-13",
     "author-meta": [
-      "John Doe",
-      "Jane Roe"
+      "Finlay Maguire",
+      "Akhilesh S. Dhanani",
+      "Akhilesh S. Dhanani",
+      "Michael W. Hall",
+      "Travis LeBlanc",
+      "Morgan G. I. Langille",
+      "Olga Theo",
+      "Kenneth Rockwood",
+      "Robert G. Beiko"
     ],
-    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Manuscript Title\" />\n<meta name=\"citation_title\" content=\"Manuscript Title\" />\n<meta property=\"og:title\" content=\"Manuscript Title\" />\n<meta property=\"twitter:title\" content=\"Manuscript Title\" />\n<meta name=\"dc.date\" content=\"2020-02-13\" />\n<meta name=\"citation_publication_date\" content=\"2020-02-13\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"John Doe\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<meta name=\"twitter:creator\" content=\"@johndoe\" />\n<meta name=\"citation_author\" content=\"Jane Roe\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_institution\" content=\"Department of Whatever, University of Something\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<link rel=\"canonical\" href=\"https://fmaguire.github.io/northwood_manuscript/\" />\n<meta property=\"og:url\" content=\"https://fmaguire.github.io/northwood_manuscript/\" />\n<meta property=\"twitter:url\" content=\"https://fmaguire.github.io/northwood_manuscript/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://fmaguire.github.io/northwood_manuscript/\" />\n<meta name=\"citation_pdf_url\" content=\"https://fmaguire.github.io/northwood_manuscript/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://fmaguire.github.io/northwood_manuscript/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://fmaguire.github.io/northwood_manuscript/v/79b3f81159c3140c4bc078841bc35e2f458e99de/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://fmaguire.github.io/northwood_manuscript/v/79b3f81159c3140c4bc078841bc35e2f458e99de/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://fmaguire.github.io/northwood_manuscript/v/79b3f81159c3140c4bc078841bc35e2f458e99de/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->",
+    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Relationships between frailty, age, and the microbiome in an assisted-care facility\" />\n<meta name=\"citation_title\" content=\"Relationships between frailty, age, and the microbiome in an assisted-care facility\" />\n<meta property=\"og:title\" content=\"Relationships between frailty, age, and the microbiome in an assisted-care facility\" />\n<meta property=\"twitter:title\" content=\"Relationships between frailty, age, and the microbiome in an assisted-care facility\" />\n<meta name=\"dc.date\" content=\"2020-02-13\" />\n<meta name=\"citation_publication_date\" content=\"2020-02-13\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Finlay Maguire\" />\n<meta name=\"citation_author_institution\" content=\"Faculty of Computer Science, Dalhousie University\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-1203-9514\" />\n<meta name=\"twitter:creator\" content=\"@FinlayM\" />\n<meta name=\"citation_author\" content=\"Akhilesh S. Dhanani\" />\n<meta name=\"citation_author_institution\" content=\"Department of Pharmacology, Dalhousie University\" />\n<meta name=\"citation_author\" content=\"Akhilesh S. Dhanani\" />\n<meta name=\"citation_author_institution\" content=\"Department of Pharmacology, Dalhousie University\" />\n<meta name=\"citation_author\" content=\"Michael W. Hall\" />\n<meta name=\"citation_author_institution\" content=\"Faculty of Computer Science, Dalhousie University\" />\n<meta name=\"citation_author\" content=\"Travis LeBlanc\" />\n<meta name=\"citation_author\" content=\"Morgan G. I. Langille\" />\n<meta name=\"citation_author_institution\" content=\"Department of Pharmacology, Dalhousie University\" />\n<meta name=\"citation_author_institution\" content=\"Department of Microbiology &amp; Immunology, Dalhousie University\" />\n<meta name=\"citation_author\" content=\"Olga Theo\" />\n<meta name=\"citation_author\" content=\"Kenneth Rockwood\" />\n<meta name=\"citation_author\" content=\"Robert G. Beiko\" />\n<meta name=\"citation_author_institution\" content=\"Faculty of Computer Science, Dalhousie University\" />\n<link rel=\"canonical\" href=\"https://fmaguire.github.io/northwood_manuscript/\" />\n<meta property=\"og:url\" content=\"https://fmaguire.github.io/northwood_manuscript/\" />\n<meta property=\"twitter:url\" content=\"https://fmaguire.github.io/northwood_manuscript/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://fmaguire.github.io/northwood_manuscript/\" />\n<meta name=\"citation_pdf_url\" content=\"https://fmaguire.github.io/northwood_manuscript/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://fmaguire.github.io/northwood_manuscript/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://fmaguire.github.io/northwood_manuscript/v/9453a7781665fedc58194063474c06e303132073/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://fmaguire.github.io/northwood_manuscript/v/9453a7781665fedc58194063474c06e303132073/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://fmaguire.github.io/northwood_manuscript/v/9453a7781665fedc58194063474c06e303132073/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->",
     "bibliography": [
       "content/manual-references.json"
     ],
@@ -25,44 +32,107 @@
     "date": "February 13, 2020",
     "authors": [
       {
-        "github": "johndoe",
-        "name": "John Doe",
-        "initials": "JD",
-        "orcid": "XXXX-XXXX-XXXX-XXXX",
-        "twitter": "johndoe",
-        "email": "john.doe@something.com",
+        "github": "fmaguire",
+        "name": "Finlay Maguire",
+        "initials": "FM",
+        "orcid": "0000-0002-1203-9514",
+        "twitter": "FinlayM",
+        "email": "finlaymaguire@gmail.com",
         "affiliations": [
-          "Department of Something, University of Whatever"
+          "Faculty of Computer Science, Dalhousie University"
         ],
-        "funders": "Grant XXXXXXXX",
+        "funders": "Donald Hill Family Fellowship in Computer Science",
         "affiliation_numbers": [
           1
         ]
       },
       {
-        "github": "janeroe",
-        "name": "Jane Roe",
-        "initials": "JR",
-        "orcid": "XXXX-XXXX-XXXX-XXXX",
+        "name": "Akhilesh S. Dhanani",
+        "initials": "ASD",
         "email": "jane.roe@whatever.edu",
         "affiliations": [
-          "Department of Something, University of Whatever",
-          "Department of Whatever, University of Something"
+          "Department of Pharmacology, Dalhousie University"
         ],
         "affiliation_numbers": [
-          1,
+          2,
           2
+        ]
+      },
+      {
+        "name": "Akhilesh S. Dhanani",
+        "initials": "ASD",
+        "email": "akhileshdhanani@gmail.com",
+        "affiliations": [
+          "Department of Pharmacology, Dalhousie University"
+        ],
+        "affiliation_numbers": [
+          2,
+          2
+        ]
+      },
+      {
+        "name": "Michael W. Hall",
+        "initials": "MWH",
+        "email": "hallm2533@gmail.com",
+        "affiliations": [
+          "Faculty of Computer Science, Dalhousie University"
+        ],
+        "affiliation_numbers": [
+          1
+        ]
+      },
+      {
+        "name": "Travis LeBlanc",
+        "initials": "TB",
+        "affiliation_numbers": []
+      },
+      {
+        "name": "Morgan G. I. Langille",
+        "initials": "MGIL",
+        "email": "morgan.g.i.langille@gmail.com",
+        "affiliations": [
+          "Department of Pharmacology, Dalhousie University",
+          "Department of Microbiology & Immunology, Dalhousie University"
+        ],
+        "affiliation_numbers": [
+          2,
+          3
+        ]
+      },
+      {
+        "name": "Olga Theo",
+        "initials": "OT",
+        "affiliation_numbers": []
+      },
+      {
+        "name": "Kenneth Rockwood",
+        "initials": "KR",
+        "affiliation_numbers": []
+      },
+      {
+        "name": "Robert G. Beiko",
+        "initials": "RGB",
+        "email": "beiko@cs.dal.ca",
+        "affiliations": [
+          "Faculty of Computer Science, Dalhousie University"
+        ],
+        "affiliation_numbers": [
+          1
         ]
       }
     ],
     "affiliations": [
       {
-        "affiliation": "Department of Something, University of Whatever",
+        "affiliation": "Faculty of Computer Science, Dalhousie University",
         "affiliation_number": 1
       },
       {
-        "affiliation": "Department of Whatever, University of Something",
+        "affiliation": "Department of Pharmacology, Dalhousie University",
         "affiliation_number": 2
+      },
+      {
+        "affiliation": "Department of Microbiology & Immunology, Dalhousie University",
+        "affiliation_number": 3
       }
     ],
     "ci_source": {
@@ -70,19 +140,19 @@
       "repo_slug": "fmaguire/northwood_manuscript",
       "repo_owner": "fmaguire",
       "repo_name": "northwood_manuscript",
-      "commit": "79b3f81159c3140c4bc078841bc35e2f458e99de",
-      "triggering_commit": "79b3f81159c3140c4bc078841bc35e2f458e99de",
-      "build_url": "https://github.com/fmaguire/northwood_manuscript/commit/79b3f81159c3140c4bc078841bc35e2f458e99de/checks",
+      "commit": "9453a7781665fedc58194063474c06e303132073",
+      "triggering_commit": "9453a7781665fedc58194063474c06e303132073",
+      "build_url": "https://github.com/fmaguire/northwood_manuscript/commit/9453a7781665fedc58194063474c06e303132073/checks",
       "job_url": "https://github.com/fmaguire/northwood_manuscript/runs/run2"
     },
     "html_url": "https://fmaguire.github.io/northwood_manuscript/",
     "pdf_url": "https://fmaguire.github.io/northwood_manuscript/manuscript.pdf",
-    "html_url_versioned": "https://fmaguire.github.io/northwood_manuscript/v/79b3f81159c3140c4bc078841bc35e2f458e99de/",
-    "pdf_url_versioned": "https://fmaguire.github.io/northwood_manuscript/v/79b3f81159c3140c4bc078841bc35e2f458e99de/manuscript.pdf",
+    "html_url_versioned": "https://fmaguire.github.io/northwood_manuscript/v/9453a7781665fedc58194063474c06e303132073/",
+    "pdf_url_versioned": "https://fmaguire.github.io/northwood_manuscript/v/9453a7781665fedc58194063474c06e303132073/manuscript.pdf",
     "manubot_version": "0.3.1",
     "rootstock_commit": "40b0e5bf228e95a75c23252593d5ab4802bf89ac",
     "manuscript_stats": {
-      "word_count": 243
+      "word_count": 1376
     }
   }
 }
